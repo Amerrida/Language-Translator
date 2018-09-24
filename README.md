@@ -1,7 +1,7 @@
 # Language -Translator
 
 ### Holiday Language Assignment
-This is a Holiday Translator
+This is a Holiday Translator. Type in the Holiday word of Merry Christmas and Happy New Year and see the work translate it in German, Spanish, and French
 
 
 ## How to run this project
@@ -19,8 +19,8 @@ hs  -p 9999
 ```
 * Open Chrome and navaigate to: 
 ```
-localhost: 8081
-```
+localhost: 8083
+```http://127.0.0.1:8083/
 ``` js
-console.log('hi')
+
 
