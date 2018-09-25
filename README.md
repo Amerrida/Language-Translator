@@ -3,6 +3,8 @@
 ### Holiday Language Assignment
 This is a Holiday Translator. Type in the Holiday word of Merry Christmas and Happy New Year and see the work translate it in German, Spanish, and French
 
+## Screenshots
+![main screenshot](image/LanguageScreenshot.png)
 
 ## How to run this project
 
